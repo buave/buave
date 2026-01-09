@@ -1,5 +1,5 @@
 ### Hello 👋
-## I'm just a student who loves development and CyberSecurity
+## I'm just nobody who loves development and CyberSecurity
 
 - 👓 The languages I know are: Python 3, PHP, Lua, JavaScript, C++ and Holy Rust (learning)
 - 🎆 As far as CyberSecurity is concerned, I am starting in this wonderful field.
